@@ -5,4 +5,4 @@
 
 
 
-[This tutorial](https://youtu.be/9SGDpanrc8U) is followed:
+[This tutorial](https://youtu.be/9SGDpanrc8U) is followed.
