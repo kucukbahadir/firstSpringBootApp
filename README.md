@@ -7,7 +7,7 @@
 
 [This tutorial](https://youtu.be/9SGDpanrc8U) is followed.
 
-These are the request:
+These are the requestS:
 - POST http://localhost:8080/api/v1/student/1
 {
     "name" : "Ali",
